@@ -1,0 +1,9 @@
+{
+  "width": 400,
+  "height": 400,
+  "data":[
+    {"label":"value1","value": 5, "color": "red"},
+    {"label":"value2","value": 8, "color": "#00ff00"},
+    {"label":"value3","value": 3, "color": "#00f"}
+  ]
+}
